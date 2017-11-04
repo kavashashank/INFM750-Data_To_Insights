@@ -1,0 +1,60 @@
+,Name,FS_id,Rating,RatingCount,LikesCount,PhotosCount,TipsCount,CheckinsCount,VisitsCounts,UsersCounts
+0,Acadia National Park,4bd83ad6e914a5937ab052fa,9.6,459,388,418,85,7817,9808,7483
+1,Arches National Park,4bb77963cf2fc9b61d3d9e02,9.5,509,428,1119,116,9184,10235,8713
+2,Pinnacles Overlook,4e0d122aae603a50b535bb32,9,39,35,55,4,321,773,769
+3,Big Bend National Park,4b78609ef964a520a1c92ee3,9.4,94,76,116,23,1168,1533,1062
+4,Biscayne National Park,4bdaca732a3a0f47a3fcabb6,8.7,91,66,142,18,1274,1703,1228
+5,Black Canyon Of The Gunnison National Park,4c02ece3f423a593258ccf16,8.3,32,24,125,9,629,670,602
+6,Bryce Canyon National Park,4be2f32d2ff376b0e8404fed,9.6,582,501,965,103,8995,11309,9849
+7,Canyonlands National Park,4ba42159f964a5208d8438e3,9.2,129,109,269,23,2372,2794,2569
+8,Capitol Reef National Park,4dbad6fea86e0e98a1ba7653,8.7,68,52,133,15,1189,1426,1191
+9,Carlsbad Caverns National Park,4c507288885c1b8d7a504939,9,199,152,327,54,3410,3961,3418
+10,Channel Islands National Park Visitors Center,4c48d39320ab1b8d3d7ff215,7.9,34,23,76,12,817,1206,1010
+11,Congaree National Park,4ce98d149f776ea83f566422,7.8,42,29,60,10,638,944,667
+12,Crater Lake National Park,4c44e9c9dcd61b8dc80c7c56,9.2,192,149,598,57,2915,3305,2956
+13,Cuyahoga Valley National Park,4bd46ec4cfa7b713890324da,9.2,169,139,135,25,4835,6220,3132
+14,Death Valley National Park,4d1a73a91683a143ce977451,8.9,385,308,843,82,8427,10151,8662
+15,Denali National Park & Preserve,4c019a49b58376b0c072443c,9.3,211,175,308,40,4825,6999,4367
+16,Dry Tortugas National Park,4d1e974d6e8c370446bbe89f,Null,Null,6,13,0,59,60,59
+17,Everglades National Park,4b991f26f964a520c66235e3,8.5,220,154,599,71,6127,6171,5035
+18,Gates of the Arctic National Park and Preserve,4e78f164cc3f8eb9a06b9119,Null,Null,0,1,0,3,3,2
+19,Glacier National Park,4c47c94bc047be9a50df3179,9.5,126,105,268,27,2710,3034,2220
+20,Glacier Bay National Park,4c1955aa6a21c9b6766aca97,7.2,14,10,40,4,207,210,190
+21,Grand Canyon National Park,4cf1603fd29b2d438fe0f0bb,9.4,1165,901,3786,352,34157,36464,28977
+22,Grand Teton National Park,4bcf161129d4b7131e84a9dc,9.6,313,261,636,63,7194,8236,6187
+23,Great Basin National Park,4e1670417d8b69590f42dcd3,7.5,14,10,24,2,118,123,107
+24,Great Sand Dunes National Park & Preserve,4c41c82faf052d7fccd27d79,9.2,112,87,390,32,2145,2467,2088
+25,Great Smoky Mountains National Park,4bae1d54f964a520f5853be3,9.5,389,308,727,99,15235,15921,11022
+26,Guadalupe Mountains National Park,4e091fa3091afe7702006485,8.7,25,22,66,3,519,570,479
+27,Haleakalā National Park,4b69ea16f964a520d8bb2be3,9.1,333,269,647,82,6097,6729,6074
+28,Hawai'i Volcanoes National Park (Hawaiʻi Volcanoes National Park),4be894da88ed2d7ff911cc1d,9.3,516,435,682,86,11277,12549,10789
+29,Hot Springs National Park,4b4e4230f964a52023e726e3,9.2,133,109,145,26,2076,3275,2428
+30,Isle Royale National Park,545a791c498e1bf406edf3e4,Null,Null,0,1,0,0,0,0
+31,Joshua Tree National Park,4af74ba5f964a5201a0822e3,9.4,524,436,1217,93,10436,12667,9732
+32,Katmai National Park & Preserve,51d0a71e498e59e825bf3aaf,Null,Null,3,5,4,14,16,16
+33,Kenai Fjords National Park,4c157292b7b9c9289104ad37,8.9,29,22,56,9,621,689,631
+34,Kings Canyon National Park,4da5f33393a01f42fad18fce,9,106,83,189,23,1677,2127,1751
+35,Kobuk Valley National Park,545a7aeb498e2b0baa4b909d,Null,Null,0,1,0,0,0,0
+36,Lassen Volcanic National Park,4ebc760f02d5e32b7b738c28,9.1,61,50,105,15,1093,1229,1047
+37,Lassen Volcanic National Park,4ebc760f02d5e32b7b738c28,9.1,61,50,105,15,1093,1229,1047
+38,Mammoth Cave National Park,4c72ecde376da09334bda7c6,9.2,324,265,280,62,5205,6420,5555
+39,Mesa Verde National Park,4b3cef8af964a520f98925e3,9.4,175,144,282,35,2798,3485,3026
+40,Mount Rainier National Park,4afef1a1f964a520f33122e3,9.2,190,152,536,48,3320,3552,2922
+41,National Park of American Samoa,4e78fa01cc3f8eb9a06c91c0,7.9,8,5,4,2,34,34,27
+42,North Cascades National Park,4c169944955976b04ecca4f6,8.7,24,17,35,8,402,410,366
+43,Olympic National Park,4b7aff59f964a520fe4a2fe3,9.5,100,85,122,21,2184,2839,1894
+44,Petrified Forest National Park,4b9aa094f964a520acc735e3,8.8,129,102,276,27,3225,3298,3032
+45,Pinnacles National Park,4c0b130effb8c9b654cc6c61,8.2,82,58,176,29,1045,1104,901
+46,Redwood National Park,4c255097db519521062a2c3a,9.2,107,87,331,25,2429,2589,2211
+47,Rocky Mountain National Park,4b8ad9d6f964a5203f8532e3,9.6,574,494,1025,110,11798,15248,11176
+48,Saguaro National Park,4b7716e5f964a5203a7c2ee3,8.8,118,89,354,23,2019,2551,1513
+49,Sequoia National Park,4e44348bd4c02cf15f5f6105,9.1,117,92,465,28,2450,2549,2204
+50,Shenandoah National Park - Front Royal Entrance Station,4b9808a2f964a520b12735e3,9,177,141,459,45,5284,5623,4393
+51,Theodore Roosevelt National Park,4c29f05be19720a16234fa58,8.9,62,49,163,17,1288,1600,1311
+52,Virgin Islands National Park,4c864c9cd4e23704f4c98988,8.7,23,15,20,7,310,322,236
+53,Voyageurs National Park Headquarters,4e1c5ac218a81211e990ee44,Null,Null,0,2,0,24,29,21
+54,Wind Cave National Park,4c07a9d4a0129c74f18ed2c9,8.2,39,29,115,8,988,1165,985
+55,Wrangell-Saint Elias National Park And Preserve,51ec156c498ede532237ea97,Null,Null,1,4,1,45,64,52
+56,Yellowstone National Park,4b69c014f964a520c9b12be3,9.3,238,180,652,72,7108,7307,5714
+57,Yosemite National Park,4ba3d06ef964a520706238e3,9.5,1276,1085,2754,246,22647,29874,22097
+58,Zion National Park,4ba3c8abf964a520e05e38e3,9.5,848,727,1400,154,14598,19156,14832
